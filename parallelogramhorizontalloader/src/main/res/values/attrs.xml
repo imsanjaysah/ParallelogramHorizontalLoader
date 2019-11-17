@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ParallelogramHorizontalLoader">
+        <attr name="pg_size" format="dimension" />
+        <attr name="pg_animate_fill_color" format="color" />
+        <attr name="pg_normal_fill_color" format="color" />
+        <attr name="pg_selection_interval_duration" format="integer" />
+        <attr name="pg_count" format="integer" />
+    </declare-styleable>
+</resources>
